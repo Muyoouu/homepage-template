@@ -71,9 +71,7 @@ Access the web page through this github-page: [muyoouu.github.io/homepage-templa
 Some features that is good to know in this static web page are:
 
 * Nav-bar - sticky navigation bar at the top on every page which connect pages, also responsive to scroll (will change color).  
-<br />
 * Read More Toggle - on "Our Projects" page, there are Read More toggles which helps to show/hide paragraphs, applied using Javascript.  
-<br />
 
 <!-- LICENSE -->
 ## License
